@@ -32,10 +32,6 @@ Quivr, your second brain, utilizes the power of GenerativeAI to store and retrie
   - Video
 - **Open Source**: Freedom is beautiful, and so is Quivr. Open source and free to use.
 
-## Demo Highlights 🎥
-
-https://github.com/StanGirard/quivr/assets/19614572/a6463b73-76c7-4bc0-978d-70562dca71f5
-
 ## Disclaimer ⚠️
 
 For a little while, Quivr will be only compatible with OpenAI API. 
@@ -67,19 +63,7 @@ Additionally, you'll need a [Supabase](https://supabase.com/) account for:
 
 - **Step 0**: If needed, the installation is explained on Youtube [here](https://youtu.be/rC-s4QdfY80)
 
-- **Step 1**: Clone the repository using **one** of these commands:
-
-  - If you don't have an SSH key set up:
-
-  ```bash
-  git clone https://github.com/StanGirard/Quivr.git && cd Quivr
-  ```
-
-  - If you have an SSH key set up or want to add it ([guide here](https://docs.github.com/en/authentication/connecting-to-github-with-ssh/adding-a-new-ssh-key-to-your-github-account))
-
-  ```bash
-  git clone git@github.com:StanGirard/Quivr.git && cd Quivr
-  ```
+- **Step 1**: Clone the repository
 
 - **Step 2**: Use the install helper
 
@@ -143,23 +127,6 @@ Additionally, you'll need a [Supabase](https://supabase.com/) account for:
   docker compose -f docker-compose.dev.yml up --build
   ```
 
-## Contributors ✨
-
-Thanks go to these wonderful people:
-<a href="https://github.com/stangirard/quivr/graphs/contributors">
-<img src="https://contrib.rocks/image?repo=stangirard/quivr" />
-</a>
-
-## Contribute 🤝
-
-Got a pull request? Open it, and we'll review it as soon as possible. Check out our project board [here](https://github.com/users/StanGirard/projects/5) to see what we're currently focused on, and feel free to bring your fresh ideas to the table!
-
-- [Open Issues](https://github.com/StanGirard/quivr/issues)
-- [Open Pull Requests](https://github.com/StanGirard/quivr/pulls)
-- [Good First Issues](https://github.com/StanGirard/quivr/issues?q=is%3Aopen+is%3Aissue+label%3A%22good+first+issue%22)
-- [Frontend Issues](https://github.com/StanGirard/quivr/issues?q=is%3Aopen+is%3Aissue+label%3Afrontend)
-- [Backend Issues](https://github.com/StanGirard/quivr/issues?q=is%3Aopen+is%3Aissue+label%3Abackend)
-
 ## Sponsors ❤️
 
 This project could not be possible without the support of our sponsors. Thank you for your support!
@@ -183,7 +150,3 @@ This project could not be possible without the support of our sponsors. Thank yo
 ## License 📄
 
 This project is licensed under the Apache 2.0 License - see the [LICENSE](LICENSE) file for details
-
-## Stars History 📈
-
-[![Star History Chart](https://api.star-history.com/svg?repos=StanGirard/quivr&type=Timeline)](https://star-history.com/#StanGirard/quivr&Timeline)
