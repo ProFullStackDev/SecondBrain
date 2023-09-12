@@ -4,11 +4,6 @@
     <img src="./logo.png" alt="Quivr-logo" width="30%"  style="border-radius: 50%; padding-bottom: 20px"/>
 </div>
 
-
-[![Discord Follow](https://dcbadge.vercel.app/api/server/HUpRgp2HG8?style=flat)](https://discord.gg/HUpRgp2HG8)
-[![GitHub Repo stars](https://img.shields.io/github/stars/stangirard/quivr?style=social)](https://github.com/stangirard/quivr)
-[![Twitter Follow](https://img.shields.io/twitter/follow/StanGirard?style=social)](https://twitter.com/_StanGirard)
-
 Quivr, your second brain, utilizes the power of GenerativeAI to store and retrieve unstructured information. Think of it as Obsidian, but turbocharged with AI capabilities.
 
 [Roadmap here](https://brain.quivr.app/docs/roadmap)
@@ -31,14 +26,6 @@ Quivr, your second brain, utilizes the power of GenerativeAI to store and retrie
   - Audio
   - Video
 - **Open Source**: Freedom is beautiful, and so is Quivr. Open source and free to use.
-
-## Disclaimer ⚠️
-
-For a little while, Quivr will be only compatible with OpenAI API. 
-
-If you want to use a Local LLM please refer to [v0.0.46](https://github.com/StanGirard/quivr/releases/tag/v0.0.46).
-
-This is due to us preparing a big feature and needing to clean the code a bit.
 
 ## Getting Started 🚀
 
